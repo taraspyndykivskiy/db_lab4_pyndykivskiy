@@ -13,4 +13,4 @@ return goals_stats;
 end;
 $$;
 
-select get_players_goals_for_season(8476906);
+-- select get_players_goals_for_season(8476906);
