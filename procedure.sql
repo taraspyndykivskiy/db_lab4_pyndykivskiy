@@ -1,4 +1,4 @@
--- the procedure creates a table consisting of information about the most valuable players of each match and MVP statistics
+-- the procedure creates a table consisting of information about the most valuable players of each match and MVPs statistics
 drop procedure if exists get_mvps_info;
 create or replace procedure get_mvps_info()
 language plpgsql
